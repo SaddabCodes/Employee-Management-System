@@ -1,6 +1,6 @@
 ## Employee Management System
 
-## A full-stack Employee Management System built with **Spring Boot (backend), MySQL (database), and React (frontend)**. This project demonstrates **CRUD (Create, Read, Update, Delete)** operations for managing employees in a system.
+A full-stack Employee Management System built with **Spring Boot (backend), MySQL (database), and React (frontend)**. This project demonstrates **CRUD (Create, Read, Update, Delete)** operations for managing employees in a system.
 
 # Features
 - Add a new employee
